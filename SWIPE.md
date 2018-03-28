@@ -8,3 +8,5 @@
 
 * create branch git branch `git branch simple-animation` and `git checkout simple-animation`
 * Head to `App.js`
+* add rally-coding linting
+* start coding
