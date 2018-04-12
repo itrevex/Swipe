@@ -12,3 +12,12 @@
 * start coding
 
 ## 29/03/2018 12:26
+
+## 04/04/2018 16:03
+
+* Use react-native elements to ease down the styling, find docs [here](https://github.com/react-native-training/react-native-elements)
+
+## 11/04/2018 13:01
+
+* panHandlers get properties from the user
+* **debugger** pauses code at that point in code
