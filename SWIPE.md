@@ -21,3 +21,5 @@
 
 * panHandlers get properties from the user
 * **debugger** pauses code at that point in code
+
+## 20/04/2018 14:25
